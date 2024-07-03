@@ -4,6 +4,8 @@
 
 This study addresses sexual violence as an intermediary factor affecting the mental health of the LGBTQ+ community. Initially, it reviews literature focused on three main aspects: the mental health of LGBTQ+ individuals, the connection between sexual violence and mental health, and the incidence of sexual violence within the LGBTQ+ community. Subsequently, it employs the National Survey on Sexual and Gender Diversity (ENDISEG) to identify findings in Mexico that align with the literature reviewed. The study concludes with a mediation analysis, demonstrating that sexual violence acts as one of the mechanisms through which LGBTQ+ individuals experience a decline in mental health.
 
+---
+
 ### Introduction
 
 In the evolving discourse on mental health, the emotional well-being of the LGBTQ+ community garners significant attention due to its complexity and the distinct challenges faced by this demographic. This study attempts to dissect the intricate mediating factors between LGBTQ+ identity and emotional health. More precisely, by adopting a mediation analysis approach, this study reveals some layers of the process through which LGBTQ+ individuals suffer emotional problems, including depression, suicidal thoughts, and others.
@@ -11,6 +13,8 @@ In the evolving discourse on mental health, the emotional well-being of the LGBT
 Our study explores related literature and focuses on mental health and sexual violence among LGBTQ+ individuals compared with their non-LGBTQ counterparts and the propensity for victims of sexual violence to present symptoms of poorer mental health. Then, it uses the ENDISEG survey on the Mexican population, searching for similar conclusions to those found in different parts of the world.
 
 Finally, this work concludes with Baron and Kenny’s mediation approach to show that the adverse mental health experiences among LGBTQ+ individuals can be significantly explained by their experiences of sexual violence, rather than solely by their LGBTQ+ identity.
+
+---
 
 ### Literature Review
 
@@ -38,17 +42,22 @@ In 2020, a national survey conducted in Australia among LGBTQ+ individuals revea
 
 The overwhelming evidence from different parts of the world, especially the west, highlights the prevalence and severity of diverse forms of sexual violence against LGBTQ+ individuals.
 
+---
+
 ### Related Literature
 
 Given the evidence in the existing literature, one might wonder the extent to which being victims of sexual violence is one of the mediating forces behind the relationship between LGBTQ+ identification and mental health outcomes, which is the purpose of this study. As such, this paper relates to those that have attempted to identify these mediators.
 
 One particular study worth considering utilized mediation analyses to demonstrate how discrimination accounted for higher emotional distress among young LGBTQ+ males and females in the US. This study employed symptoms of depression, self-harm, and suicidal ideation as indicators of emotional distress, which were highlighted as significantly more prevalent among our subjects of interest compared to heterosexuals. In addition, youth participants were asked, 'Sometimes people feel they are discriminated against or treated badly by others. In the past 12 months, have you felt discriminated against because someone thought you were gay, lesbian, or bisexual?’ Those who answered “yes” exhibited significantly higher rates of self-harm and suicidal ideation compared to those who answered ‘no’, as well as higher levels of depressive symptomatology. However, the study could only establish that perceived discrimination strongly mediates the relationship between young LGBTQ+ males and depressive symptomatology.
 
+---
+
 ### ENDISEG
 
 This study uses data from The National Survey on Sexual and Gender Diversity (ENDISEG) 2021, which was developed by Mexico's National Institute of Statistics and Geography (INEGI) to understand the characteristics related to sexuality, gender identity, and sexual orientation of the population aged 15 and older. Its aim is to identify individuals whose identity or orientation doesn't conform to hetero-patriarchal societal norms (LGBTQI+ community). The survey’s sample size is 44,189 participants who represent 97.2 million people in Mexico.
 
 **Precedents**
+
 In the 2000s, Mexico witnessed significant legislative advancements in support of sexual and gender diversity. On May 17, 2007, the country marked a monumental step by establishing it as the Day of the Fight Against Homophobia. Just three years later, in 2010, this day was recognized as the Day of Tolerance and Respect for Preferences, following proposals by international organizations such as the United Nations and the Pan American Health Organization. This recognition was further solidified in 2014 when May 17 was officially decreed as the National Day Against Homophobia.
 
 Health law reforms were introduced in 2009, acknowledging the needs of transgender individuals. These reforms allowed for hormone treatments and psychotherapy for those undergoing gender transition. A pivotal moment occurred in 2015 when the Supreme Court of the Nation (SCJN) unequivocally declared that no individual could be denied rights based on their sexual orientation. In the same breath of progressive action, the Federal District Government proclaimed November 13 as the official day to celebrate and recognize Transgender Persons.
@@ -59,9 +68,7 @@ In 2016, same-sex marriage was approved, with the SCJN asserting that marriage s
 
 In December 2019, INEGI conducted the field test for the National Survey on Sexual and Gender Diversity (ENDISEG) in collaboration with the National Council to Prevent Discrimination (CONAPRED). The objective was to test a questionnaire through direct interviews with selected individuals aged 15 and over from households, assessing its effectiveness and collecting insights for refining the survey methodology. This field test informed adjustments to the survey tool and confirmed various methodological aspects for the main 2021 ENDISEG survey. Given the sensitive nature of topics like gender identity and sexual orientation, ensuring confidentiality was paramount. As a solution, ENDISEG 2021 utilized audio interviews to gather sensitive information, ensuring privacy since even the interviewers couldn't identify the responses provided. These unique features position the ENDISEG 2021 as a pioneering survey conducted by a national statistical office.
 
-In addition to the ENDISEG 2021
-
-, the ENDISEG WEB, conducted online in 2022, was a qualitative survey freely accessible to anyone, especially targeting the LGBTQI+ community. While both targeted those aged 15 and over, only the ENDISEG WEB required an email for participation. The questionnaires for both were similar, but the ENDISEG WEB's primary aim was to understand the LGBTQI+ community, gathering 14,364 responses, of which 7,060 were from LGBTQI+ individuals.
+---
 
 ### Data and Methods
 
@@ -125,3 +132,7 @@ $𝑌_𝑖 =  𝛿_0  +  𝛿_1 𝑋_{𝑖}  +  𝛿_2 𝑀_{𝑖} + 𝜔_𝑖$.
 Literature on mediation would denote $\beta_1$ as the direct effect and the difference of $𝛽_1$ and $𝛿_1$ as the indirect effect. The idea of $𝛽_1 − 𝛿_1$ is that the mediator is reducing the effect of the independent variable.
 
 This study constructed six regression models to evaluate the likelihood of reporting each type of emotional discomfort, comparing LGBTQ+ individuals to their non-LGBTQ+ counterparts. Subsequently, each model was adjusted by introducing 4 control variables (mediation variables), to assess the extent to which the coefficient associated with being LGBTQ+ changes.
+
+---
+
+
