@@ -1,4 +1,4 @@
-# Emotional Health in the LGBTQ+ Community: A Mediation Analysis
+# Emotional Health among the LGBTQ+ Community in Mexico: A Mediation Analysis
 
 #### Abstract
 
