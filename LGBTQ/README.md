@@ -15,6 +15,7 @@ Finally, this work concludes with Baron and Kenny’s mediation approach to show
 ### Literature Review
 
 **Mental health among LGBTQ+ individuals**
+
 Existing literature has documented a strong relationship between being part of the LGBTQ+ population and mental health outcomes, and between sexual abuse and mental health. There have been studies that prove LGBTQ+ individuals experience more health issues than non-LGBTQ+ people. These publications not only discuss medical conditions such as HIV, obesity, and cancer, but also extensively cover mental health issues like suicide ideation, depression, and anxiety, especially after being exposed to conversion therapy.
 
 Historically, publicly identifying oneself as a non-heterosexual or non-cisgender person has been challenging. During the early stages of life, young people grapple with accepting their feelings and must decide (or guess) when and how to express themselves to friends, family members, and eventually, coworkers. As they mature, the primary concern shifts from family acceptance to dealing with institutional acceptance.
@@ -22,11 +23,13 @@ Historically, publicly identifying oneself as a non-heterosexual or non-cisgende
 In the United States, LGBTQ+ students have been reported to have a higher likelihood of experiencing depressive symptoms and attempting suicide. In Canada, one study showed that most transgender people in their sample had seriously considered suicide in the past year. More general evidence about low emotional health associated with being part of the LGBTQ+ community can be found in countries such as Thailand, Chile, Europe, Australia, and China. A 2021 UNESCO report showed that half of LGBTQ+ students in Europe have suffered bullying based on their sexuality and 83% had witnessed negative comments based on their sexual orientation, gender identity, gender expressions, or variations of sex characteristics.
 
 **Sexual violence and mental health**
+
 Regarding sexual abuse in general, this type of violence has a tremendous impact on the overall health of the people who suffer from it. Literature usually focuses on women as they are the primary victims. However, both females and males exhibit similar behavior after being sexually assaulted. They both report lower health status and are associated with suicide ideation, depression, and anxiety.
 
 Being physically assaulted is usually associated with lower physical health, whereas sexual assault is associated with mental health issues. However, they both often come with emotional abuse, which affects the daily lives of victims and future behaviors. One study in Japan had victims reporting problems with performing usual activities, walking, concentrating, and memory. Female veterans who were sexually assaulted during their military service in the US, and many during their childhood, were most likely to report chronic health problems and use prescription medications for mental health problems. They were also less likely to have completed college. Risky sexual behaviors were also identified as consequences of sexual violence, including unprotected sex, sex under the influence of alcohol or other substances, and sex work.
 
 **Sexual violence in the LGBTQ+ community**
+
 Sexual abuse has profound implications for its victims, particularly those belonging to marginalized communities such as the LGBTQ+. Sexual violence can manifest physically through forced penetration and assault, as well as psychologically through verbal harassment, intimidation, and social pressure. The LGBTQ+ community, already struggling with societal prejudices and systemic discrimination, faces unique challenges when confronted with sexual abuse. A review of recent literature highlights the multifaceted effects of such abuse on LGBTQ+ individuals.
 
 The 2017 National Crime Victimization Survey revealed that sexual and gender minorities in the United States face a significantly higher risk of violent crimes including rape, sexual assault, and aggravated assault, at rates 3 to 4 times greater than the general population. There is discussion about underreported sexual violence among young students due to distrust in support services, fear of embarrassment, and a belief that reporting would not lead to meaningful action.
